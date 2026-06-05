@@ -37,4 +37,4 @@ calculates percentages, determines exam eligibility, and computes fines.
 - Libraries: iostream, iomanip
 
 ## Author
-Sarib Afzaal — 1st Year CS Student |mAI/ML & Data Science
+Sarib Afzaal — 1st Year CS Student | AI/ML & Data Science
